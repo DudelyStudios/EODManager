@@ -1,0 +1,70 @@
+# GitHub is the update channel, not a source tree.
+# Only README.md, VERSION, and this file should be committed.
+
+# Application source
+app/
+tests/
+tools/
+packages/
+assets/
+*.py
+*.pyc
+*.pyw
+*.spec
+*.bat
+*.cmd
+*.ps1
+requirements.txt
+requirements-*.txt
+pyproject.toml
+*.command
+Pipfile
+Pipfile.lock
+
+# Local developer notes (not for GitHub)
+DEV.md
+PUBLISH.md
+
+# AI / Cursor / agent tooling
+.cursor/
+.cursorignore
+.cursorrules
+.claude/
+.compound-engineering/
+.github/copilot-instructions.md
+AGENTS.md
+CLAUDE.md
+**/.agents/
+**/SKILL.md
+**/skills/
+agent-transcripts/
+*.plan.md
+residual-review-findings/
+
+# Runtime and build output
+.venv/
+venv/
+env/
+data/
+exports/
+build/
+dist/
+dist_build/
+dist_ship/
+.pytest_cache/
+__pycache__/
+*.sqlite
+*.xlsx
+*.xls
+*.log
+_update_*.exe
+_apply_update.cmd
+_apply_update.ps1
+
+# Editors and OS
+.idea/
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
