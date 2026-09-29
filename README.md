@@ -2,7 +2,7 @@
 
 SkyZone Biloxi closing report for the trampoline park.
 
-Download **BiloxiEOD.exe** from [Releases](https://github.com/DudelyStudios/EODManager/releases). Put it in a writable folder (Desktop is fine). Do not copy someone else's `data` folder unless you want the same saved nights.
+Download **EODManager.exe** from [Releases](https://github.com/DudelyStudios/EODManager/releases). Put it in a writable folder (Desktop is fine). Do not copy someone else's `data` folder unless you want the same saved nights.
 
 ## Update from inside the app
 
